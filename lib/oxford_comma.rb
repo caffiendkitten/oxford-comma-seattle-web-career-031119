@@ -15,6 +15,6 @@ def oxford_comma(array)
   end
 end
 
-array = ["saam", "John", "Sarah"]
+#array = ["saam", "John", "Sarah"]
 
-oxford_comma(array)
+#oxford_comma(array)
